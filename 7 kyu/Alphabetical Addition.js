@@ -32,5 +32,3 @@ function addLetters(letters) {
   
   return alphabet[addUp - 1];
 }
-
-console.log(addLetters("q", "d", "d", "c", "d", "z", "s", "g", "g", "m"));

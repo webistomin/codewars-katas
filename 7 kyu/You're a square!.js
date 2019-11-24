@@ -18,6 +18,6 @@
 // isSquare(25) returns  true
 // isSquare(26) returns  false
 
-var isSquare = function(n) {
+const isSquare = function(n) {
   return parseInt(Math.sqrt(n), 10) === Math.sqrt(n);
 };

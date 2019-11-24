@@ -34,7 +34,3 @@ function solve(st) {
   
   return mostValuableChar;
 }
-
-console.log(solve('a')); // a
-console.log(solve('axyzxyz')); // x
-console.log(solve('aabccc')); // c
